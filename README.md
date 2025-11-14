@@ -20,10 +20,3 @@ Clean, visually engaging design
  --Purpose
 
 This website is a concept café page showcasing creative UI/UX design, aesthetic styling, and interactive menu presentation.
-It can be used as:
-
-A portfolio project
-
-A design experiment
-
-A template for café or product showcase websites
