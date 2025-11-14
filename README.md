@@ -20,3 +20,11 @@ Clean, visually engaging design
  --Purpose
 
 This website is a concept café page showcasing creative UI/UX design, aesthetic styling, and interactive menu presentation.
+
+ --Additional Notes
+
+Built using HTML and CSS (no backend required)
+
+Animated elements use GIFs and CSS effects
+
+Can serve as a template or inspiration for future projects
