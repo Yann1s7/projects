@@ -1,31 +1,31 @@
-Midnight Crimson Café — Aesthetic Dark-Themed Website
+The Enchanted Dark Brew — Aesthetic Dark-Themed Café Website
 
-Midnight Crimson Café is a stylish, dark-edgy, girly aesthetic café website featuring animated visuals, a custom menu, and an interactive order form.
-It blends gothic tones with neon-crimson highlights, creating a unique visual identity inspired by alternative café culture.
+The Enchanted Dark Brew is a dark-edgy, girly-aesthetic café website featuring animated visuals, a unique menu, and an interactive order form.
+It blends gothic tones with neon-crimson highlights, creating a mysterious and immersive café atmosphere.
 
- -Features
+ --Features
 
 Fully responsive HTML/CSS layout
 
-Animated header & product GIFs
+Animated header and product GIFs
 
-Custom typography (Winter Solstice & Motor4F)
+Custom typography with Winter Solstice & Motor4F fonts
 
-Drinks and sweets menu with hover effects
+Drinks and sweets menu with interactive hover effects
 
-Order form with item selection, quantities, and preferences
+Order form with item selection, quantities, and delivery preferences
 
-Dark immersive theme with pink-crimson accents
+Dark, immersive theme with pink-crimson accents
 
-Smooth visual flow and clean structure
+Clean, visually engaging design
 
- -Purpose
+ --Purpose
 
-This project serves as a stylish concept café website that showcases creative UI/UX design, aesthetic theming, and custom menu presentation.
+This website is a concept café page showcasing creative UI/UX design, aesthetic styling, and interactive menu presentation.
 It can be used as:
 
-A portfolio piece
+A portfolio project
 
 A design experiment
 
-A template for café or product showcase sites
+A template for café or product showcase websites
