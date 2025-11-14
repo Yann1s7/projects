@@ -1,5 +1,3 @@
-The Enchanted Dark Brew
-
 The Enchanted Dark Brew is a dark-edgy, girly-aesthetic café website featuring animated visuals, a unique menu, and an interactive order form.
 It blends gothic tones with neon-crimson highlights, creating a mysterious and immersive café atmosphere.
 
